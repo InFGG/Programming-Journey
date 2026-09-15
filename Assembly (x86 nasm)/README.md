@@ -16,3 +16,6 @@ This is my first programming language im taking a real deepdive into, i am start
 
 >## Exercises:
 >1. 01-Basics.asm - Just the basics of what i have learned
+>2. 02-Arithmetic.asm - more advanced arithmetic
+>3. 03-Memory.asm - the basics of memory (reading, writing, swapping)
+>4. 04-Addressing.asm - some more advanced memory accessing and arrays
