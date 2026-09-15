@@ -20,3 +20,4 @@ This is my first programming language im taking a real deepdive into, i am start
 >3. 03-Memory.asm - the basics of memory (reading, writing, swapping)
 >4. 04-Addressing.asm - some more advanced memory accessing and arrays
 >5. 05-Comparisons.asm - how cmp works and some basic control flow examples
+>5. 06-ControlFlow.asm - if else statements in assembly
