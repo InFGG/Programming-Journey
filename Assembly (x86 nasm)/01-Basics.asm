@@ -1,4 +1,4 @@
-;This file is basically just registers and arithmetic
+;This file is basically just registers and basic arithmetic
 
 ;copying a number to a register
 mov rax, 1 ;copies the integer 1 to the register rax
@@ -18,3 +18,4 @@ mov rbx, 5
 add rax, rbx ;adds rbx to rax and stores it to rax
 
 ;skipping subtraction because it is the same thing as addition but using 'sub' instead of 'add'
+;more complex arithmetic is in 02-Arithmetic
