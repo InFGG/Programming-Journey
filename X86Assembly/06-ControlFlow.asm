@@ -25,7 +25,7 @@ jg .greater ;if rax is greater than rbx then jump to .greater
 add rax, rbx ;else add rbx to rax
 jmp .end
 
-.greater
+.greater:
 sub rax, rbx ;subtract rbx from rax if rax is greater
 
 .end: ;end of statement
