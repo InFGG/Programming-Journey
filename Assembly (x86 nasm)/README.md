@@ -22,3 +22,4 @@ This is my first programming language im taking a real deepdive into, i am start
 >5. 05-Comparisons.asm - how cmp works and some basic control flow examples
 >6. 06-ControlFlow.asm - if else statements in assembly
 >7. 07-Loops.asm - basics of loops, including for and while loops and pre and post check loops
+>8. 08-HelloLinux - basic linux syscalls in nasm, and a basic hello world program using stdout

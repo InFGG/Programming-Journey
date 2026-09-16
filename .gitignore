@@ -1,0 +1,5 @@
+#assembly build files
+*.o
+
+#compiled executeables
+linux
