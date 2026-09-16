@@ -1,7 +1,7 @@
 ;this file explores the stack and ABI
 
 ;before we even run _start linux gives the program some memory and rsp is pointing at the top
-;this makes programming easier as we dont have to manually alloate memory or mov rsp to specific addresses
+;this makes programming easier as we dont have to manually allocate memory or mov rsp to specific addresses
 
 ;we can do push to add onto the top of the stack
 ;push 1 puts 1 ontop of the stack
