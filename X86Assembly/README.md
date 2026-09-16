@@ -10,6 +10,7 @@ This is my first programming language im taking a real deepdive into, i am start
 >- arrays
 >- conditional jumps
 >- loops
+>- Stack *(Still learning properly)*
 
 
 ### **I am still learning - I do not know much *yet***
@@ -23,5 +24,5 @@ This is my first programming language im taking a real deepdive into, i am start
 >6. 06-ControlFlow.asm - if else statements in assembly
 >7. 07-Loops.asm - basics of loops, including for and while loops and pre and post check loops
 >8. 08-HelloLinux - basic linux syscalls in nasm, and a basic hello world program using stdout
->9. 09-Functions - the stack and ABI
+>9. 09-Functions - the stack and ABI *(wip)*
 >10. 10-LinuxCalculator - empty/wip
