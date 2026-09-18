@@ -1,5 +1,6 @@
-#assembly build files
+# objects if assembled beside the .asm
 *.o
 
-#compiled executeables
-linux
+# nasm/ld output lives here
+X86Assembly/output/*
+!X86Assembly/output/.gitignore
